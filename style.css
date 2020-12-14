@@ -1,0 +1,69 @@
+body{
+  background-image: url("background.jpg");
+  background-size: cover;
+  color: white;
+
+}
+.contenitore{
+    width: 1000px;
+    height: 600px;
+    padding: 50px;
+    margin: auto;
+    background-color: rgba(21,12,12,0.7);
+    border-radius: 2%;
+  }
+
+.logo{
+    width: 150px;
+    padding-left: 425px;
+  }
+
+h1{
+  text-align: center;
+  color: lime;
+}
+
+.row{
+  box-sizing: border-box;
+  width: 1000px;
+  padding: 15px;
+  background-color: lime;
+}
+
+.button{
+  display: inline;
+  margin: 0px;
+}
+
+.monopattini{
+  margin-top: 20px;
+}
+
+#model1{
+  font-size: 25px;
+}
+
+.option{
+  margin: 10px;
+}
+
+.carica1{
+  width: 200px;
+  height: 15px;
+  background-color: #e2e265;
+  border-radius: 5%;
+}
+
+.carica2{
+  width: 350px;
+  height: 15px;
+  background-color: #11da11;
+  border-radius: 5%;
+}
+
+.carica3{
+  width: 150px;
+  height: 15px;
+  background-color: #f54f4f;
+  border-radius: 5%;
+}
